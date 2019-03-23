@@ -1,6 +1,6 @@
 # Detecting duplicate files in a given path
 
-##Usage
+## Usage
 ```
 * mvn clean package
 * java -jar target/HW1-1.0.jar /hayrettine/Desktop/solr-6.4.1
